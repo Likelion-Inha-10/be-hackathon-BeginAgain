@@ -10,7 +10,7 @@ class CommentsCollection:
         self.api_obj = build('youtube', 'v3', developerKey=APIKey)
         self.video_id_list = VideoIds
     
-    def getComments():
+    def getComments(self):
         for i in self.video_id_list:
             response = self.api_obj.commentThreads().list(part='snippet,replies', videoId=i, maxResults=100).execute()
 

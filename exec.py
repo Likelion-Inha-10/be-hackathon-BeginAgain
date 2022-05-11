@@ -1,9 +1,9 @@
-import youtube3
+import youtube
 import task_3
 import total
 
 APIKey = input("API 키를 입력해주세요 : ")
-videoId=youtube3.VideoId(APIKey)
+videoId=youtube.VideoId(APIKey)
 videoIdList=videoId.getVideoId()
 
 comments = task_3.CommentsCollection(APIKey, videoIdList)
