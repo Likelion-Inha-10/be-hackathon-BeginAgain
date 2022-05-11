@@ -7,7 +7,7 @@ import numpy as np
 
 
 class MakeWordCloud:
-    def getWordCloud():
+    def getWordCloud(self):
         print ('o'*20)
 
         with open('task3.csv', 'r', encoding='utf-8') as f:
