@@ -23,18 +23,10 @@
 
 결과물 : 
 
-실행 이후, 
-API 키를 입력해주세요 : AIzaSyCaUMmzzx4n3A2HAh9_c3p9yNxYpgJNFik
-원하는 채널명을 입력해주세요 : 찐언니
-['HVy4mX4v3JA']
-원하는 채널명을 입력해주세요 : 김로라
-['TC4phaMVNr8']
-원하는 채널명을 입력해주세요 : 김파란
-['Fonu-sD1oLU']
-['HVy4mX4v3JA', 'TC4phaMVNr8', 'Fonu-sD1oLU']
+터미널 : ![cmd화면](https://user-images.githubusercontent.com/86829166/167818994-2e29d611-e599-4ae5-be70-9e5c4b6f8008.png)
 
-17세 미만 : 
-![17세 미만](https://user-images.githubusercontent.com/86829166/167811737-b3eebda3-689e-4e18-963d-f9b30b649835.png)
+17세 이하 : ![17세 이하](https://user-images.githubusercontent.com/86829166/167819057-3b5eb488-cc21-4e79-9f28-a04a1d58feee.png)
 
-65세 이상 : 
-![65세 이상](https://user-images.githubusercontent.com/86829166/167812584-bff4011f-589a-4913-86d2-69d4a1bcbd12.png)
+2030 : ![20대](https://user-images.githubusercontent.com/86829166/167819110-f4a8afc2-a97a-453a-9706-04d9ab3e6461.png)
+
+65세 이상 : ![65세 이상](https://user-images.githubusercontent.com/86829166/167819136-2efe5a65-9c49-4431-a264-3f50a39d97cb.png)
