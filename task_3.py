@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-class commentsCollection:
+class CommentsCollection:
     def __init__(self, APIKey, VideoIds):
         self.comments = list()
         self.api_obj = build('youtube', 'v3', developerKey=APIKey)
